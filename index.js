@@ -10,6 +10,8 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <div>
     <FC />
+  < Updatecomp nameProp = "Ravi New comp" />
+   < Clickcounter headerProp = "RAvi counter" contentProp = "Content from props..."/>
     <Fnccomp />
     <Clickcounter />
     <Cilckhover />
