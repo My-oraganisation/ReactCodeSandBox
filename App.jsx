@@ -86,3 +86,6 @@ export class Cilckhover extends React.Component {
 }
 
 export default App;
+
+// I HAVE MADE THE CHANGES FOR THE git
+
